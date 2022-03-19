@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleSalado
+- 👋 Hi, I’m @ale.ando
 - 👀 I’m interested in coding and to get fun!
 - 🌱 I’m currently learning Javascript, css and git duhh
 - 💞️ I’m looking to collaborate on with myeself for now...
